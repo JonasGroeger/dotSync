@@ -10,11 +10,8 @@ It should look somewhat like this:
     ├── .bash_functions
     ├── .bashrc
     ├── .bash_ssh
-    ├── .git
     ├── .gitconfig
-    ├── .gitignore
     ├── .hgrc
-    ├── .idea
     ├── .inputrc
     ├── .minttyrc
     ├── .pythonstartup
